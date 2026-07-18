@@ -8,7 +8,7 @@
 
 - 🌱 Currently Working **Real world project**
 - 💻 Skilled in **React.js, Node.js, REST APIs, MySQL**
-- 📚 Interested in **Full Stack Development**
+- 📚 Interested in **Software Development**
 - 📍 Location: Noida, India
 - 📫 Reach me at: **pathakprasoon702@gmail.com**
 
