@@ -17,6 +17,8 @@
 ## 🚀 Tech Stack
 - Raect.js
 - Node.js
+- Django
+- FastAPI
 - JavaScript
 - Pyhton
 - Java
