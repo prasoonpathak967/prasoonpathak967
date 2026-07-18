@@ -37,6 +37,8 @@
 ---
 
 ## 📌 Projects
+### SkillGapAI
+A career Intelligence Plateform 
 
 ### Expense Tracker
 A application that allows users to track daily expenses, manage categories, and monitor spending using REST APIs.
