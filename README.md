@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prasoon Pathak
 
-💻 Full Stack Developer | MCA student
+💻 Software Developer | MCA student
 
 ---
 
