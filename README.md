@@ -20,6 +20,7 @@
 - Django
 - FastAPI
 - JavaScript
+- JSON
 - Pyhton
 - Java
 - REST APIs
